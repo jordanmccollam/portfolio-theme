@@ -1,0 +1,21 @@
+{
+    "name": "portfolio",
+    "displayName": "portfolio",
+    "description": "A custom VS Code theme made by Jordan McCollam",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "portfolio",
+                "uiTheme": "vs-dark",
+                "path": "./themes/portfolio-color-theme.json"
+            }
+        ]
+    }
+}
