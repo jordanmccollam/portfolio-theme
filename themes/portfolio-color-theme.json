@@ -14,8 +14,6 @@
 		"sideBarSectionHeader.foreground": "#43bee5",
 		"sideBar.background": "#0f101f",
 		"sideBar.border": "#1a1d35",
-		"menu.background": "#0f101f",
-		"widget.shadow": "#121427",
 		"icon.foreground": "#5a5c77",
 		"activityBar.background": "#0f101f",
 		"activityBar.border": "#1a1d35",
@@ -41,9 +39,6 @@
 		"focusBorder": "#0f101f",
 		"editor.lineHighlightBorder": "#1a1d35",
 		"editor.lineHighlightBackground": "#1a1d35",
-		"editorHoverWidget.background": "#0f101f",
-		"editorWidget.background": "#0f101f",
-		"editorSuggestWidget.selectedBackground": "#1a1d35",
 		"editorSuggestWidget.highlightForeground": "#219652",
 		"editorSuggestWidget.border": "#1a1d35",
 		"editorHoverWidget.border": "#1a1d35",
@@ -61,6 +56,13 @@
 		"sideBarSectionHeader.border": "#0f101f",
 		"editorGroupHeader.tabsBorder": "#1a1d35",
 		"editor.findMatchHighlightBackground": "#5a5c77",
+
+		// Widget / Menu backgrounds and shadows
+		"menu.background": "#131529",
+		"editorHoverWidget.background": "#131529",
+		"editorWidget.background": "#131529",
+		"editorSuggestWidget.selectedBackground": "#1a1d35",
+		"widget.shadow": "#0a0c16",
 	},
 	"tokenColors": [{
 			"name": "Comment",
@@ -207,7 +209,7 @@
 				"constant.escape",
 				"variable.parameter",
 				"keyword.other.unit",
-				"keyword.other"
+				"keyword.other",
 			],
 			"settings": {
 				"foreground": "#219652",
